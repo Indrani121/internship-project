@@ -25,25 +25,25 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
+![01](https://user-images.githubusercontent.com/118000822/204012622-7edbe199-3862-4461-b452-a921db88bdb8.jpg)
+![2](https://user-images.githubusercontent.com/118000822/204012690-1592d9ba-0099-4fbb-9e9b-0e375c1a5ad4.jpg)
 
 
 ### About Us -
+![3](https://user-images.githubusercontent.com/118000822/204012790-f8f8bd05-e463-4ed7-a9b3-fcd07eb55b9d.jpg)
 
 
 
 
 ### Services -
-
-
+![4](https://user-images.githubusercontent.com/118000822/204012880-af670efc-0ab4-4409-9b19-90f580d9d02b.jpg)
+![5](https://user-images.githubusercontent.com/118000822/204012931-bf7d0eb4-8dca-4080-ba7d-07555858185d.jpg)
+![6](https://user-images.githubusercontent.com/118000822/204012993-9175b737-40e8-4169-a7c1-29f9f788e7cb.jpg)
+![7](https://user-images.githubusercontent.com/118000822/204013060-9dad8046-aaf3-40e0-bd15-11fbbdf71da2.jpg)
 
 ### Contact us -
 
-
-
-
-### health bot
-
-
+![8](https://user-images.githubusercontent.com/118000822/204013155-3ae6bbf8-45ed-476e-b71c-7f84b179f464.jpg)
 
 
 
