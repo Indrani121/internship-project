@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://victorious-island-07645e800.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/gWhsWK9M-dE
 
 ## Azure technologies used for Project
 
